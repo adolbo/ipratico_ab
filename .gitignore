@@ -7,7 +7,7 @@ node_modules
 .env.local
 .env.*.local
 
-# Log files
+# Log filesadolb ghp_n9lAR6Yg9FC95fU8jPx6O4ZdGUo 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JTsA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17VfGYo
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -21,3 +21,4 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+t init
