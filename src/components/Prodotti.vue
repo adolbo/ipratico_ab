@@ -13,8 +13,7 @@
     <div class="col2" >
 
       <div v-for="prod in prodList" :key="prod.id" >
-        <!--<div v-if="prod.value.productCategoryId===this.$route.params.id" >-->
-        <div >
+        <div v-if="prod.value.productCategoryId===this.$route.params.id" >
           <span class="button" >
             <div style="text-align: left">
               {{prod.value.name}}
